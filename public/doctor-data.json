@@ -1,0 +1,206 @@
+[
+  {
+    "id": 1,
+    "image": "https://i.ibb.co.com/cK10SCvB/doctor-5997504-640.jpg",
+    "name": "Dr. Ayaan Rahman Chowdhury",
+    "education": "MBBS (DMC), FCPS (Cardiology)",
+    "specialities": ["Cardiology"],
+    "designation": "Consultant Cardiologist",
+    "workplace": "HeartCare Hospital, Dhaka",
+    "fee": 1000,
+    "years_of_experience": 12,
+    "registration_number": "BMC-112233",
+    "availability": ["Sunday","Monday", "Tuesday", "Thursday"],
+    "appointment_card": {
+      "availability_badge": "Available"
+    },
+    "description": "Dr. Ayaan Rahman Chowdhury is a board-certified cardiologist with 12 years of experience in treating complex heart conditions. He specializes in interventional cardiology and has performed over 2,000 successful angioplasties. Known for his patient-centered approach, Dr. Chowdhury stays updated with the latest advancements in cardiovascular treatments."
+  },
+  {
+    "id": 2,
+    "image": "https://i.ibb.co.com/pvjR9K7Z/f1.jpg",
+    "name": "Dr. Nusrat Jahan Farhana",
+    "education": "MBBS (CMC), MD (Dermatology)",
+    "specialities": ["Dermatology"],
+    "designation": "Skin Specialist",
+    "workplace": "Dermaclinic, Chattogram",
+    "fee": 800,
+    "years_of_experience": 9,
+    "registration_number": "BMC-114455",
+    "availability": ["Monday", "Wednesday"],
+    "appointment_card": {
+      "availability_badge": "Available"
+    },
+    "description": "Dr. Nusrat Jahan Farhana is a renowned dermatologist specializing in cosmetic dermatology and skin cancer treatments. With 9 years of experience, she has helped thousands of patients with acne, psoriasis, and anti-aging treatments. Her gentle approach and attention to detail make her one of the most sought-after skin specialists in Chattogram."
+  },
+  {
+    "id": 3,
+    "image": "https://i.ibb.co.com/NgZfXq6j/02.jpg",
+    "name": "Dr. Imran Hossain Khan",
+    "education": "MBBS (SOMC), MS (Orthopedics)",
+    "specialities": ["Orthopedics"],
+    "designation": "Orthopedic Surgeon",
+    "workplace": "Bone & Joint Centre, Sylhet",
+    "fee": 900,
+    "years_of_experience": 14,
+    "registration_number": "BMC-115566",
+    "availability": ["Sunday", "Tuesday", "Friday"],
+    "appointment_card": {
+      "availability_badge": "Available"
+    },
+    "description": "Dr. Imran Hossain Khan is a skilled orthopedic surgeon with expertise in joint replacements and sports injuries. With 14 years of surgical experience, he has successfully performed over 1,500 joint replacement surgeries. Patients appreciate his thorough explanations and commitment to non-surgical options when possible."
+  },
+  {
+    "id": 4,
+    "image": "https://i.ibb.co.com/vC3vHHg5/f2.jpg",
+    "name": "Dr. Farzana Ahmed Siddiqua",
+    "education": "MBBS (DMC), DGO, FCPS (Obs & Gynae)",
+    "specialities": ["Gynecology"],
+    "designation": "Gynecologist",
+    "workplace": "Women's Hospital, Dhaka",
+    "fee": 700,
+    "years_of_experience": 10,
+    "registration_number": "BMC-118899",
+    "availability": ["Monday", "Thursday", "Saturday"],
+    "appointment_card": {
+      "availability_badge": "Available"
+    },
+    "description": "Dr. Farzana Ahmed Siddiqua is a compassionate gynecologist specializing in high-risk pregnancies and minimally invasive surgeries. With a decade of experience, she provides comprehensive women's healthcare services with special focus on reproductive health and fertility issues. Her patients commend her comforting bedside manner."
+  },
+  {
+    "id": 5,
+    "image": "https://i.ibb.co.com/B5LJ9Mck/03.jpg",
+    "name": "Dr. Arif Mahmud Hasan",
+    "education": "MBBS (SSMC), FCPS (Pediatrics)",
+    "specialities": ["Pediatrics"],
+    "designation": "Child Specialist",
+    "workplace": "Shishu Hospital, Dhaka",
+    "fee": 600,
+    "years_of_experience": 8,
+    "registration_number": "BMC-120011",
+    "availability": ["Sunday", "Wednesday"],
+    "appointment_card": {
+      "availability_badge": "Available"
+    },
+    "description": "Dr. Arif Mahmud Hasan is a dedicated pediatrician known for his expertise in neonatal care and childhood vaccinations. With 8 years of experience, he specializes in treating childhood asthma, allergies, and infectious diseases. Parents appreciate his ability to connect with children and explain complex medical issues in simple terms."
+  },
+  {
+    "id": 6,
+    "image": "https://i.ibb.co.com/JWZwDjLR/f7.jpg",
+    "name": "Dr. Shaila Haque Begum",
+    "education": "MBBS (KMCH), MD (Endocrinology)",
+    "specialities": ["Endocrinology"],
+    "designation": "Diabetes Specialist",
+    "workplace": "Diabetic Centre, Khulna",
+    "fee": 850,
+    "years_of_experience": 11,
+    "registration_number": "BMC-122244",
+    "availability": ["Tuesday", "Thursday"],
+    "appointment_card": {
+      "availability_badge": "Available"
+    },
+    "description": "Dr. Shaila Haque Begum is an endocrinologist specializing in diabetes management and thyroid disorders. With 11 years of experience, she takes a holistic approach to endocrine health, focusing on lifestyle modifications alongside medical treatments. Her patients value her practical dietary advice and personalized treatment plans."
+  },
+  {
+    "id": 7,
+    "image": "https://i.ibb.co.com/5g9CXqRm/07.jpg",
+    "name": "Dr. Kamal Uddin Ahmed",
+    "education": "MBBS (DMC), FCPS (Neurology)",
+    "specialities": ["Neurology"],
+    "designation": "Neurologist",
+    "workplace": "NeuroCare Hospital, Dhaka",
+    "fee": 1200,
+    "years_of_experience": 15,
+    "registration_number": "BMC-133344",
+    "availability": ["Monday", "Wednesday", "Friday"],
+    "appointment_card": {
+      "availability_badge": "Available"
+    },
+    "description": "Dr. Kamal Uddin Ahmed is a senior neurologist with expertise in stroke management and epilepsy treatment. With 15 years of experience, he has pioneered several advanced neurological treatments in Bangladesh. Patients appreciate his diagnostic acumen and clear explanations about their conditions and treatment options."
+  },
+  {
+    "id": 8,
+    "image": "https://i.ibb.co.com/GQtBFps8/f4.jpg",
+    "name": "Dr. Sabrina Islam",
+    "education": "MBBS (CMC), MD (Psychiatry)",
+    "specialities": ["Psychiatry"],
+    "designation": "Psychiatrist",
+    "workplace": "MindCare Clinic, Dhaka",
+    "fee": 950,
+    "years_of_experience": 7,
+    "registration_number": "BMC-144455",
+    "availability": ["Tuesday", "Thursday", "Saturday"],
+    "appointment_card": {
+      "availability_badge": "Available"
+    },
+    "description": "Dr. Sabrina Islam is a compassionate psychiatrist specializing in anxiety disorders and depression. With 7 years of clinical experience, she combines medication management with cognitive behavioral therapy techniques. Her patients commend her non-judgmental approach and ability to create a safe space for discussing mental health concerns."
+  },
+  {
+    "id": 9,
+    "image": "https://i.ibb.co.com/C3RmWw73/f8.jpg",
+    "name": "Dr. Rahimul Karim",
+    "education": "MBBS (SSMC), MS (ENT)",
+    "specialities": ["ENT"],
+    "designation": "ENT Specialist",
+    "workplace": "Ear Nose Throat Center, Rajshahi",
+    "fee": 750,
+    "years_of_experience": 10,
+    "registration_number": "BMC-155566",
+    "availability": ["Sunday", "Monday", "Wednesday"],
+    "appointment_card": {
+      "availability_badge": "Available"
+    },
+    "description": "Dr. Rahimul Karim is an ENT specialist with expertise in sinus surgeries and hearing disorders. With 10 years of experience, he has successfully treated thousands of patients with chronic ear, nose and throat conditions. Known for his gentle approach during examinations, especially with pediatric patients."
+  },
+  {
+    "id": 10,
+    "image": "https://i.ibb.co.com/qL5VCfPN/f8.png",
+    "name": "Dr. Tasnim Rahman",
+    "education": "MBBS (KMCH), FCPS (Gastroenterology)",
+    "specialities": ["Gastroenterology"],
+    "designation": "Gastroenterologist",
+    "workplace": "Digestive Care Hospital, Dhaka",
+    "fee": 1100,
+    "years_of_experience": 12,
+    "registration_number": "BMC-166677",
+    "availability": ["Tuesday", "Friday"],
+    "appointment_card": {
+      "availability_badge": "Available"
+    },
+    "description": "Dr. Tasnim Rahman is a gastroenterologist specializing in liver diseases and endoscopic procedures. With 12 years of experience, she has performed over 3,000 diagnostic and therapeutic endoscopies. Patients appreciate her thorough explanations about digestive health and her focus on preventive gastroenterology."
+  },
+  {
+    "id": 11,
+    "image": "https://i.ibb.co.com/39XnZvc6/00234.jpg",
+    "name": "Dr. Faisal Mahmud",
+    "education": "MBBS (DMC), FCPS (Urology)",
+    "specialities": ["Urology"],
+    "designation": "Urologist",
+    "workplace": "UroCare Center, Dhaka",
+    "fee": 1300,
+    "years_of_experience": 13,
+    "registration_number": "BMC-177788",
+    "availability": ["Monday", "Thursday"],
+    "appointment_card": {
+      "availability_badge": "Available"
+    },
+    "description": "Dr. Faisal Mahmud is a urological surgeon with expertise in kidney stone treatments and prostate surgeries. With 13 years of surgical experience, he has pioneered minimally invasive urological procedures in Bangladesh. Male patients particularly appreciate his discreet and professional approach to sensitive urological issues."
+  },
+  {
+    "id": 12,
+    "image": "https://i.ibb.co.com/3gGvfbk/f6.jpg",
+    "name": "Dr. Nasrin Akter",
+    "education": "MBBS (CMC), MD (Oncology)",
+    "specialities": ["Oncology"],
+    "designation": "Cancer Specialist",
+    "workplace": "OncoCare Hospital, Chittagong",
+    "fee": 1500,
+    "years_of_experience": 16,
+    "registration_number": "BMC-188899",
+    "availability": ["Wednesday", "Saturday"],
+    "appointment_card": {
+      "availability_badge": "Available"
+    },
+    "description": "Dr. Nasrin Akter is a senior oncologist specializing in breast cancer and hematological malignancies. With 16 years of experience, she provides compassionate cancer care combining chemotherapy, immunotherapy and palliative care. Patients value her honest yet hopeful approach to cancer treatment and survivorship care."
+  }
+]
