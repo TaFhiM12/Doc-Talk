@@ -1,9 +1,8 @@
-Here's a professional README.md file for your Doc-Talk medical appointment application:
 
 ```markdown
 # Doc-Talk: Medical Appointment System
 
-![Doc-Talk Screenshot](./public/screenshot.png) <!-- Add a screenshot if available -->
+
 
 A modern web application for booking doctor appointments with real-time availability and patient management.
 
@@ -33,7 +32,7 @@ A modern web application for booking doctor appointments with real-time availabi
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/doc-talk.git
+[git clone https://github.com/yourusername/doc-talk.git](https://github.com/TaFhiM12/Doc-Talk.git)
 ```
 
 2. Install dependencies:
