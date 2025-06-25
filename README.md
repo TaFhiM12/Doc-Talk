@@ -1,12 +1,85 @@
-# React + Vite
+Here's a professional README.md file for your Doc-Talk medical appointment application:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+```markdown
+# Doc-Talk: Medical Appointment System
 
-Currently, two official plugins are available:
+![Doc-Talk Screenshot](./public/screenshot.png) <!-- Add a screenshot if available -->
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+A modern web application for booking doctor appointments with real-time availability and patient management.
 
-## Expanding the ESLint configuration
+## Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🩺 Doctor profile browsing and details
+- 📅 Appointment booking system
+- 📝 Medical blogs and articles
+- 📞 Contact form for inquiries
+- 📱 Responsive design for all devices
+
+## Tech Stack
+
+### Frontend
+- React 19
+- React Router v7
+- Tailwind CSS + DaisyUI
+- Recharts for data visualization
+- Vite (Build Tool)
+
+### Key Libraries
+- React Hot Toast (Notifications)
+- React CountUp (Animations)
+- React Icons
+
+## Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/yourusername/doc-talk.git
+```
+
+2. Install dependencies:
+```bash
+npm install
+```
+
+3. Run the development server:
+```bash
+npm run dev
+```
+
+## Project Structure
+
+```
+doc-talk/
+├── src/
+│   ├── components/      # Reusable components
+│   ├── pages/           # Page components
+│   ├── root/            # Root layout
+│   └── ...              # Other source files
+├── public/              # Static assets
+├── vite.config.js       # Vite configuration
+└── package.json         # Project dependencies
+```
+
+## Available Scripts
+
+- `npm run dev` - Start development server
+- `npm run build` - Build for production
+- `npm run lint` - Run ESLint
+- `npm run preview` - Preview production build
+
+## Configuration
+
+The app uses these configuration files:
+- `vite.config.js` - Vite build settings
+- `tailwind.config.js` - Tailwind CSS configuration
+
+## Data Flow
+
+- Doctor data loaded from `/public/doctor-data.json`
+- Blog content loaded from `/public/blogs-data.json`
+- All routes are client-side rendered with React Router
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
